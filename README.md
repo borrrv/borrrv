@@ -7,4 +7,5 @@
 - [Сайт](https://github.com/borrrv/resumes) для создания резюме на Django и SQLite
 - [Микросервис](https://github.com/borrrv/balance) для работы с балансом пользователя с использованием DRF и Postgres
 
-Технологии: Python/Django/DRF/SQLite/PostgreSQL/Docker/Linux/
+###Технологии
+Python/Django/DRF/SQLite/PostgreSQL/Docker/Linux/
