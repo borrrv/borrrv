@@ -11,11 +11,11 @@
 </div>
   
 <h2>Мои проекты</h2> 
-
-- [Чат-бот](https://github.com/borrrv/serials_bot) для телеграмма с использование aiogram
-- [Сайт](https://github.com/borrrv/resumes) для создания резюме на Django и SQLite
+- [Корпоративная социальная сеть](https://csn.sytes.net)
 - [Сервис](https://github.com/borrrv/balance) для работы с балансом пользователя с использованием DRF и Postgres, Docker
 - [Django-сервис](https://github.com/borrrv/vk_test) для друзей на DRF и SQLite с использованием Docker
+- [Социальная сеть](https://github.com/borrrv/social_network)
+- [Сайт](https://github.com/borrrv/resumes) для создания резюме на Django и SQLite
 
 <h2>Технологии</h2>
 <div>
