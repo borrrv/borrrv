@@ -11,6 +11,7 @@
 </div>
   
 <h2>Мои проекты</h2> 
+
 - [Корпоративная социальная сеть](https://csn.sytes.net)
 - [Сервис](https://github.com/borrrv/balance) для работы с балансом пользователя с использованием DRF и Postgres, Docker
 - [Django-сервис](https://github.com/borrrv/vk_test) для друзей на DRF и SQLite с использованием Docker
