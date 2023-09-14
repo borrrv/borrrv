@@ -12,10 +12,9 @@
   
 <h2>Мои проекты</h2> 
 
-- [Корпоративная социальная сеть](http://corpnet.sytes.net)
+- [Корпоративная социальная сеть](https://corporate-life.ru/)
 - [Сервис](https://github.com/borrrv/balance) для работы с балансом пользователя с использованием DRF и Postgres, Docker
 - [Django-сервис](https://github.com/borrrv/friends_service) для друзей на DRF и SQLite с использованием Docker
-- [Социальная сеть](https://github.com/borrrv/social_django)
 - [Сайт](https://github.com/borrrv/resumes) для создания резюме на Django и SQLite
 
 <h2>Технологии</h2>
@@ -26,5 +25,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-plain-wordmark.svg" title="Pytest" alt="Pytest" width="40" height="40"/>&nbsp;
 </div>
 
