@@ -9,13 +9,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
 </div>
-  
-<h2>Мои проекты</h2> 
 
-- [Корпоративная социальная сеть](https://corporate-life.ru/)
-- [Сервис](https://github.com/borrrv/balance) для работы с балансом пользователя с использованием DRF и Postgres, Docker
-- [Django-сервис](https://github.com/borrrv/friends_service) для друзей на DRF и SQLite с использованием Docker
-- [Сайт](https://github.com/borrrv/resumes) для создания резюме на Django и SQLite
 
 <h2>Технологии</h2>
 <div align="center">
